@@ -4,6 +4,8 @@ int Temperatur; // navngivning af LM35 indputtet
 String quality="";
 int buzz = 6;
 
+
+
 void setup()
 {
   Serial.begin(9600);      // sets the serial port to 960

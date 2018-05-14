@@ -1,7 +1,7 @@
 // Henry's Bench TA-1200 AC Current Sensor Tutorial
 
 
-int sensorTA12 = A0; // Analog input pin that sensor is attached to
+int sensorTA12 = A2; // Analog input pin that sensor is attached to
 
 float nVPP;   // Voltage measured across resistor
 float nCurrThruResistorPP; // Peak Current Measured Through Resistor
