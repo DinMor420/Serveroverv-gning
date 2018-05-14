@@ -2,7 +2,7 @@ int GasLevel;
 int GasLevel2;
 int digitalValue;
 String quality="";
-
+//hej
 void setup()
 {
 
