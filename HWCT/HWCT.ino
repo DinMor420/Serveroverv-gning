@@ -46,8 +46,8 @@ void setup()
 
    
    Serial.print("Volts Peak : ");
-   Serial.println(nVPP,3);
- 
+   Serial.print(nVPP,3);
+   Serial.println(" V");
    
    Serial.print("Current Through Resistor (Peak) : ");
    Serial.print(nCurrThruResistorPP,3);
